@@ -10,9 +10,9 @@ cover: false
 
 I am working on NLP problems now. Feel free to contact me via wechat: 547160794. I am open to make friends with you. :D
 
-My research interests focus on: **Natural Language Processing** (e.g., Dialogue system, question answering, knowledge graphetc.), Deep Learning, Machine Learning in Education and Psychology.
+Natural Language Processing(e.g. Dialogue system, question answering, LLM-based things(like agent) etc.) & its applications in Education and Marketing(Advertising).
 
-Things about **Psychology**, **Education**, economy and management are also interesting to me. By our words we will be justified :). 
+Things about **Psychology**, **Education**, **Economy** and **Marketing** are also interesting to me. By our words we will be justified :). 
 
 I'd like to live a vigorous life even ending with dying poorly.
 
