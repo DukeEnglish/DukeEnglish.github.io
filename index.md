@@ -30,9 +30,7 @@ Nature
 Who moved my cheese
 
 ## Recent news
-**May 2022**
-[如何入门 GPT 并快速跟上当前的大语言模型 LLM 进展？](https://www.zhihu.com/question/599713780/answer/3018222382)
-字节跳动技术团队公众号发布见：https://mp.weixin.qq.com/s/0iq7uCJeq72VN69fyPZQtw
+I am currently exploring new applications of NLP, especially those related to LLMs, with a particular focus on the areas of psychology, education, economics, marketing, as well as agents and collaboration. I'm also open to ideas in other areas, so feel free to reach out if you have any thoughts
 
 ## Professional Service
 - Conference reviewer
@@ -41,7 +39,7 @@ Who moved my cheese
   - EMNLP
 - Shared task holder 
 	- NLPCC [2020](http://tcci.ccf.org.cn/conference/2020/cfpt.php)
-    - NLPCC [2021](http://tcci.ccf.org.cn/conference/2021/cfpt.php)
+  - NLPCC [2021](http://tcci.ccf.org.cn/conference/2021/cfpt.php)
 
 ## Current Highlights
 
