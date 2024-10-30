@@ -12,7 +12,7 @@ I am working on NLP problems now. Feel free to contact me via wechat: 547160794.
 
 Natural Language Processing(e.g. Dialogue system, question answering, LLM-based things(like agent) etc.) & its applications in Education and Marketing(Advertising).
 
-Things about **Education**, **Healthcare** and **Marketing** are also interesting to me:). 
+Things about **Education**, **Healthcare**, **Economy** and **Marketing** are also interesting to me:). 
 
 I'd like to live a vigorous life even ending with dying poorly.
 
