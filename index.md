@@ -42,6 +42,7 @@ I am currently exploring new applications of NLP, especially those related to LL
   - NLPCC [2021](http://tcci.ccf.org.cn/conference/2021/cfpt.php)
 
 ## Current Highlights
+[Google Scholar](https://scholar.google.com/citations?user=JNXKtlgAAAAJ&hl=en)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
